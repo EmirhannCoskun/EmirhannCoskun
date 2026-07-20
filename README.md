@@ -1,24 +1,81 @@
-# 💫 About Me:
-# 👋 Merhaba, ben Emirhan<br><br>Yazılım geliştirmeye ilgi duyan ve bu alanda kendini sürekli geliştirmeye çalışan bir öğrenciyim. Teknolojiyi sadece tüketen değil, aynı zamanda üreten tarafta olmayı hedefliyorum. Bu yüzden yazılım dünyasında sağlam bir temel oluşturmak için aktif olarak öğrenmeye ve proje geliştirmeye çalışıyorum.<br><br>---<br><br>## 🚀 Hakkımda<br><br>Kendimi yazılım alanında geliştirmek isteyen bir öğrenciyim. Problem çözmeyi, algoritma kurmayı ve sistemlerin nasıl çalıştığını anlamayı seviyorum. Özellikle backend geliştirme, veri yapıları ve nesne yönelimli programlama (OOP) konularına odaklanıyorum.<br><br>Zamanla sadece teorik bilgi değil, gerçek projeler geliştirerek tecrübe kazanmayı hedefliyorum.<br><br>---<br><br>## 💻 Bildiğim Teknolojiler ve Diller<br><br>### 🔹 Programlama Dilleri<br>- C# (temel + orta seviye)<br>- Java (öğrenme aşamasında)<br><br>### 🔹 Yazılım Konseptleri<br>- Nesne Yönelimli Programlama (OOP)<br>- Temel algoritmalar ve problem çözme<br>- Veri yapıları (öğrenme aşamasında)<br>- SQL ve temel veritabanı mantığı<br><br>### 🔹 Web & Backend (temel seviye)<br>- HTML<br>- CSS<br>- .NET Core / ASP.NET (öğrenme aşamasında)<br><br>---<br><br>## 🎯 Hedeflerim<br><br>Kısa ve uzun vadede hedeflerim şunlar:<br><br>- Yazılım mühendisliği alanında güçlü bir temel oluşturmak  <br>- Gerçek dünya problemlerine çözüm üreten projeler geliştirmek  <br>- Backend ve sistem tasarımı konusunda uzmanlaşmak  <br>- Açık kaynak projelere katkı sağlamak  <br>- Profesyonel bir yazılım geliştirici olmak  <br><br>---<br><br>## 📌 Şu anda odaklandığım konular<br><br>- Java öğrenmek ve projeler geliştirmek  <br>- C# ve .NET tarafında kendimi geliştirmek  <br>- Veri yapıları ve algoritmalar pratiği yapmak  <br>- Git ve terminal kullanımını profesyonel seviyeye taşımak  <br><br>---<br><br>## 🧠 Çalışma Felsefem<br><br>“Öğrenmek sadece bilgi almak değil, onu kullanabilmektir.”<br><br>Bu yüzden her öğrendiğim konuyu küçük projelerle pekiştirmeye çalışıyorum. Hedefim sadece kod yazmak değil, doğru ve sürdürülebilir sistemler kurabilmek.<br><br>---<br><br>## 📈 GitHub Yolculuğum<br><br>Burada yaptığım projeleri, öğrendiğim konuları ve gelişim sürecimi paylaşarak zamanla güçlü bir portföy oluşturmayı hedefliyorum.<br><br>---
+# Hello 👋, I'm EMİRHAN COŞKUN
+### Backend Developer
 
+👋 Merhaba, ben Emirhan Coşkun.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emrhancoskunn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emirhan-co%C5%9Fkun-962353383/) 
+💻 Yazılım geliştirme alanında kendimi sürekli geliştiren ve özellikle backend geliştirme üzerine yoğunlaşan bir öğrenciyim. Yazılım öğrenme sürecimde yalnızca belirli bir dili öğrenmeye değil, farklı teknolojilerin ve programlama dillerinin arkasındaki temel mantığı anlamaya önem veriyorum. 🧠
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=EmirhannCoskun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=EmirhannCoskun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=EmirhannCoskun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Şu ana kadar C# ve .NET ekosistemi üzerinde yoğunlaşarak nesne yönelimli programlama, veritabanı yönetimi ve web API geliştirme gibi alanlarda kendimi geliştirdim. Şu anda özellikle ASP.NET Core Web API ve Entity Framework Core gibi teknolojiler üzerinde çalışarak backend geliştirme konusundaki bilgilerimi daha ileri bir seviyeye taşımaya çalışıyorum. ⚙️
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EmirhannCoskun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+☕ Bunun yanında Java öğrenerek farklı bir programlama dilinin yaklaşımını ve ekosistemini keşfediyorum. Java öğrenme sürecimde temel programlama ve nesne yönelimli programlama bilgilerimi pekiştirirken, ilerleyen süreçte backend geliştirme alanında farklı teknolojiler öğrenmeyi hedefliyorum. 📚
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🌐 Web geliştirme alanında da kendimi geliştirmeye devam ediyor, frontend ve backend arasındaki bağlantıyı daha iyi anlamaya çalışıyorum. Uzun vadeli hedefim, güçlü bir yazılım temeli oluşturarak Full Stack Developer yolunda ilerlemek ve gerçek problemlere çözüm üreten, ölçeklenebilir ve kaliteli yazılımlar geliştirebilmek. 🎯
+
+🔍 Benim için yazılım öğrenmek sadece bir programlama dili öğrenmekten ibaret değil. Her yeni teknolojiyle birlikte yazılım geliştirme mantığımı daha iyi anlamaya, öğrendiklerimi projeler üzerinde uygulamaya ve sürekli olarak kendimi geliştirmeye çalışıyorum. 📈
+
+💡 Learn. Build. Improve. Repeat.
 
 ---
-[![](https://komarev.com/ghpvc/?username=EmirhannCoskun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Contact Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/emirhan-co%C5%9Fkun-962353383/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/emrhancoskunn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="45" height="45"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmirhannCoskun&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Emirhan's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhannCoskun&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EmirhannCoskun&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🚀 Currently Learning
+
+- ASP.NET Core Web API
+- Entity Framework Core
+- Backend Architecture
+- RESTful API Development
+- Java
+- Database Management
+- Full Stack Development
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
