@@ -65,20 +65,12 @@ I'm currently focusing on **C# and the .NET ecosystem**, improving my knowledge 
 
 <div align="center">
 
-<a href="https://github.com/EmirhannCoskun">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=EmirhannCoskun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/EmirhannCoskun">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhannCoskun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</a>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=EmirhannCoskun&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=EmirhannCoskun&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
