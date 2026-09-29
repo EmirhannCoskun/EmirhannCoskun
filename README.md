@@ -24,7 +24,7 @@ Hi, I'm **Emirhan**, a software development student passionate about backend dev
 I'm currently focusing on **C# and the .NET ecosystem**, improving my knowledge of object-oriented programming, database management, API development, and software architecture.
 
 * 💻 Interested in backend development and web technologies
-* 🌱 Currently learning ASP.NET Core Web API and Entity Framework Core
+* 🌱 Currently learning React, Typescript, Material UI
 * 🗄️ Working with relational databases and SQL
 * 🤖 PR Member of **FRC Team İTOBOT #6038**
 * 🎯 Working toward becoming a Full Stack Developer
